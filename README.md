@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theyashjaiswal
-- 👀 I’m interested in Fullstack Web development.
+- 👨🏻‍💻 I’m a Fullstack Web developer.
 
 <!---
 theyashjaiswal/theyashjaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
